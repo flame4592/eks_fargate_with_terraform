@@ -1,0 +1,2 @@
+# eks_fargate_with_terraform
+repository for eks_fargate_with_terraform
